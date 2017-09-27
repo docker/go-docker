@@ -1,0 +1,33 @@
+
+[[constraint]]
+  name = "github.com/docker/distribution"
+  revision = "5db89f0ca68677abc5eefce8f2a0a772c98ba52d"
+#  branch = "master"
+
+[[constraint]]
+  name = "github.com/docker/go-connections"
+  version = "0.3.0"
+
+[[constraint]]
+  name = "github.com/docker/go-units"
+  version = "0.3.2"
+
+[[constraint]]
+  name = "github.com/gogo/protobuf"
+  version = "0.4.0"
+
+[[constraint]]
+  name = "github.com/opencontainers/go-digest"
+  version = "1.0.0-rc1"
+
+[[constraint]]
+  name = "github.com/opencontainers/image-spec"
+  version = "1.0.0"
+
+[[constraint]]
+  name = "github.com/pkg/errors"
+  version = "0.8.0"
+
+[[constraint]]
+  name = "golang.org/x/net"
+#  branch = "master"
