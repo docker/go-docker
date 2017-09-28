@@ -1,8 +1,7 @@
 
 [[constraint]]
   name = "github.com/docker/distribution"
-  revision = "5db89f0ca68677abc5eefce8f2a0a772c98ba52d"
-#  branch = "master"
+  revision = "edc3ab29cdff8694dd6feb85cfeb4b5f1b38ed9c"
 
 [[constraint]]
   name = "github.com/docker/go-connections"
@@ -30,4 +29,3 @@
 
 [[constraint]]
   name = "golang.org/x/net"
-#  branch = "master"
