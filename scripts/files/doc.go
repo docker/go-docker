@@ -3,7 +3,7 @@ Package docker is the official Go client for the Docker API.
 
 
 For more information about the Docker API, see the documentation:
-https://docs.docker.com/develop/api
+https://docs.docker.com/develop/sdk
 
 Usage
 
