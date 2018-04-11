@@ -1,4 +1,4 @@
-package mount
+package mount // import "docker.io/go-docker/api/types/mount"
 
 import (
 	"os"

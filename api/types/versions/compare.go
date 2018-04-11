@@ -1,4 +1,4 @@
-package versions
+package versions // import "docker.io/go-docker/api/types/versions"
 
 import (
 	"strconv"

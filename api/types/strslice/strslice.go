@@ -1,4 +1,4 @@
-package strslice
+package strslice // import "docker.io/go-docker/api/types/strslice"
 
 import "encoding/json"
 

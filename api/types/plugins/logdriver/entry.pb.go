@@ -11,7 +11,7 @@
 	It has these top-level messages:
 		LogEntry
 */
-package logdriver
+package logdriver // import "docker.io/go-docker/api/types/plugins/logdriver"
 
 import proto "github.com/gogo/protobuf/proto"
 import fmt "fmt"
