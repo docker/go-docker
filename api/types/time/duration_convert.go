@@ -1,4 +1,4 @@
-package time
+package time // import "docker.io/go-docker/api/types/time"
 
 import (
 	"strconv"

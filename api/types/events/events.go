@@ -1,4 +1,4 @@
-package events
+package events // import "docker.io/go-docker/api/types/events"
 
 const (
 	// ContainerEventType is the event type that containers generate

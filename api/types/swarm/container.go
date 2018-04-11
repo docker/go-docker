@@ -1,4 +1,4 @@
-package swarm
+package swarm // import "docker.io/go-docker/api/types/swarm"
 
 import (
 	"time"

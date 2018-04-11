@@ -1,4 +1,4 @@
-package types
+package types // import "docker.io/go-docker/api/types"
 
 // AuthConfig contains authorization information for connecting to a Registry
 type AuthConfig struct {

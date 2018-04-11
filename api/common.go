@@ -1,4 +1,4 @@
-package api
+package api // import "docker.io/go-docker/api"
 
 // Common constants for daemon and client.
 const (

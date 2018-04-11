@@ -1,4 +1,4 @@
-package network
+package network // import "docker.io/go-docker/api/types/network"
 
 // Address represents an IP address
 type Address struct {

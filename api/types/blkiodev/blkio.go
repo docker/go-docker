@@ -1,4 +1,4 @@
-package blkiodev
+package blkiodev // import "docker.io/go-docker/api/types/blkiodev"
 
 import "fmt"
 
