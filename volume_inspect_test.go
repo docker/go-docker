@@ -10,7 +10,9 @@ import (
 	"testing"
 
 	"docker.io/go-docker/api/types"
-	"github.com/docker/docker/internal/testutil"
+	// "github.com/docker/docker/internal/testutil"
+	testutil "github.com/gotestyourself/gotestyourself/assert"
+
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/net/context"

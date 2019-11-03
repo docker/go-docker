@@ -11,7 +11,9 @@ import (
 
 	"docker.io/go-docker/api"
 	"docker.io/go-docker/api/types"
-	"github.com/docker/docker/internal/testutil"
+
+	// "github.com/docker/docker/internal/testutil"
+	testutil "github.com/gotestyourself/gotestyourself/assert"
 	"github.com/stretchr/testify/assert"
 )
 
